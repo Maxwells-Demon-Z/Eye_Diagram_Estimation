@@ -1,0 +1,72 @@
+Circuit: * C:\Users\zju\Desktop\sim_folder\Final_Test\4_RateRJ\Test_Sample_Rate\Test_Sample_Rate.asc
+
+ltra: using linear interpolation because trytocompact option specified
+Direct Newton iteration for .op point succeeded.
+.step jit=-0.25
+.step jit=-0.24
+.step jit=-0.23
+.step jit=-0.22
+.step jit=-0.21
+.step jit=-0.2
+.step jit=-0.19
+.step jit=-0.18
+.step jit=-0.17
+.step jit=-0.16
+.step jit=-0.15
+.step jit=-0.14
+.step jit=-0.13
+.step jit=-0.12
+.step jit=-0.11
+.step jit=-0.1
+.step jit=-0.09
+.step jit=-0.08
+.step jit=-0.07
+.step jit=-0.06
+.step jit=-0.05
+.step jit=-0.04
+.step jit=-0.03
+.step jit=-0.02
+.step jit=-0.01
+.step jit=4.06576e-020
+.step jit=0.01
+.step jit=0.02
+.step jit=0.03
+.step jit=0.04
+.step jit=0.05
+.step jit=0.06
+.step jit=0.07
+.step jit=0.08
+.step jit=0.09
+.step jit=0.1
+.step jit=0.11
+.step jit=0.12
+.step jit=0.13
+.step jit=0.14
+.step jit=0.15
+.step jit=0.16
+.step jit=0.17
+.step jit=0.18
+.step jit=0.19
+.step jit=0.2
+.step jit=0.21
+.step jit=0.22
+.step jit=0.23
+.step jit=0.24
+.step jit=0.25
+
+Date: Wed Dec 21 16:24:46 2022
+Total elapsed time: 19.896 seconds.
+
+tnom = 27
+temp = 27
+method = Gear
+totiter = 4473
+traniter = 4465
+tranpoints = 1530
+accept = 1261
+rejected = 269
+matrix size = 26
+fillins = 2
+Matrix Compiler1: 1.90 KB object code size  0.5/0.4/[0.3]
+Matrix Compiler2: 2.31 KB object code size  0.4/0.4/[0.3]
+
